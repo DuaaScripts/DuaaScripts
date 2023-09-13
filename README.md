@@ -17,7 +17,7 @@ I'm a passionate 17-year-old aspiring Full Stack Web Developer from Pakistan �
 
 📫 Want to collaborate or just have a chat? Feel free to reach out to me!
 
-📧 Email: duaay17@gmail.com
-🐦 Insta: duaa_scripts
+
+👀 Insta: duaa_scripts
 
 Let's connect and make the web a better place together! 🌟
