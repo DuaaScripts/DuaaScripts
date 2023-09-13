@@ -1,17 +1,23 @@
-- ### About Me
+## Hello, I'm Duaa Batool! 👋
 
-Hi there! 👋 I'm Duaa Batool, a passionate and aspiring software developer on a journey to create amazing web applications and software solutions.
+I'm a passionate 17-year-old aspiring Full Stack Web Developer from Pakistan 🇵🇰. Currently, I'm on an exciting journey in the world of web development, working on various projects to hone my skills and creativity.
 
-- 🔭 I'm currently working on web development projects.
-- 🌱 I'm constantly learning and improving my coding skills.
-- 👯 I'm open to collaborations and always excited to work with others.
-- 📫 How to reach me: [duaaay17@gmail.com].
-- 😄 Pronouns: [ she/her].
+### 🚀 What I'm Up To:
+- 💻 Exploring the realms of Full Stack Web Development.
+- 🌐 Creating web applications that solve real-world problems.
+- 📚 Learning and growing every day to stay at the cutting edge of technology.
+- 🐱‍👤Learning Data Structures and Algorithms in C++
+- 🎡Exploring the world of code and design
+
+🌟 Besides coding, I have a creative side too! I love:
+- 🍰Baking delicious treats 
+- 🌈Creating beautiful arts and crafts
+- 🌍 Learning Turkish alongside my coding adventures. 🇹🇷
 
 
-Feel free to explore my repositories and connect with me! Let's code together and make the digital world a better place. 🚀
+📫 Want to collaborate or just have a chat? Feel free to reach out to me!
 
-<!---
-DuaaScripts/DuaaScripts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+📧 Email: duaay17@gmail.com
+🐦 Insta: duaa_scripts
+
+Let's connect and make the web a better place together! 🌟
