@@ -1,6 +1,6 @@
 ## Hello, I'm Duaa Batool! 👋
 
-I'm a passionate 17-year-old aspiring Full Stack Web Developer from Pakistan 🇵🇰. Currently, I'm on an exciting journey in the world of web development, working on various projects to hone my skills and creativity.
+I'm a passionate 17-year-old aspiring Frontend Web Developer from Pakistan 🇵🇰. Currently, I'm on an exciting journey in the world of web development, working on various projects to hone my skills and creativity.
 
 ### 🚀 What I'm Up To:
 - 💻 Exploring the realms of Full Stack Web Development.
